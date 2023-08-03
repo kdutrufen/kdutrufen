@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kdutrufen
-- 👀 I’m interested in Bioinformatics and Machine Learning
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Bioinfor-related projects
+- 💞️ I’m looking to collaborate on bioinfoinformatics-related projects
 - 📫 How to reach me carlos.trufen@gmail.com
 
 <!---
