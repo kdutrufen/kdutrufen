@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kdutrufen
-- 💞️ I’m looking to collaborate on bioinfoinformatics-related projects
 - 📫 How to reach me carlos.trufen@gmail.com
 
 <!---
